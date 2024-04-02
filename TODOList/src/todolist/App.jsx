@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import './App.css';
-import 'react-calendar/dist/Calendar.css';
+import 'node_modules/react-calendar/dist/Calendar.css';
 import { Supprimer, Modifier, Ajouter, SelectionDate, StatusTache } from './functions.jsx';
 import { ButtonAjouter, ButtonSave, ButtonSupprimer, ButtonModifier, ButtonCalendar } from './buttons.jsx';
 
